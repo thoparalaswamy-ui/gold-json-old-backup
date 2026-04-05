@@ -1,136 +1,98 @@
 // ===============================
-// ✅ IMPORT
+// IMPORTS
 // ===============================
 const fs = require("fs");
+const axios = require("axios");
+const csv = require("csv-parser");
+const { Readable } = require("stream");
 
 // ===============================
-// ✅ CONFIG (ALL YOUR CITIES)
+// GOOGLE SHEET CSV URL
 // ===============================
-const cities = [
-  "visakhapatnam","vijayawada","tirupati","guntur","kurnool",
-  "hyderabad","warangal","nizamabad","karimnagar",
-  "chennai","coimbatore","madurai","trichy","salem",
-  "bangalore","mysore","mangalore","hubli",
-  "kochi","trivandrum","kozhikode","thrissur",
-  "new delhi","lucknow","kanpur","varanasi","noida","ghaziabad",
-  "amritsar","ludhiana","jalandhar","gurgaon","faridabad",
-  "shimla","dehradun",
-  "mumbai","pune","nagpur","nashik",
-  "ahmedabad","surat","vadodara","rajkot",
-  "jaipur","udaipur","jodhpur",
-  "kolkata","patna","ranchi","bhubaneswar",
-  "guwahati","shillong"
-];
+const CSV_URL =
+  "https://docs.google.com/spreadsheets/d/e/2PACX-1vSf-NvJRWrauaNgrorLP_vUv0olLy72EHSuxyfsV54-1gQ5yXpDwg1Z_MCet8DbdpAeGB-2THEp-8JS/pub?gid=1776037993&single=true&output=csv";
 
 // ===============================
-// ✅ BASE PRICE (UPDATE SOURCE)
+// FETCH CSV USING AXIOS
 // ===============================
-function getBasePrice() {
-  return {
-    gold24: 152922.276,
-    gold22: 140176.22,
-    silver: 248740.6
-  };
+async function fetchCSV() {
+  const response = await axios.get(CSV_URL);
+
+  const results = [];
+
+  return new Promise((resolve, reject) => {
+    const stream = Readable.from(response.data);
+
+    stream
+      .pipe(csv())
+      .on("data", (row) => {
+        // normalize keys
+        const cleanRow = {};
+        Object.keys(row).forEach((key) => {
+          cleanRow[key.trim().toLowerCase()] = row[key];
+        });
+
+        const date = cleanRow["date"];
+        const cityRaw = cleanRow["city"];
+
+        if (!date || !cityRaw) return;
+
+        results.push({
+          date: date.trim(),
+          city: cityRaw.toLowerCase().trim(),
+          gold24: parseFloat(cleanRow["gold24"]),
+          gold22: parseFloat(cleanRow["gold22"]),
+          silver: parseFloat(cleanRow["silver"]),
+        });
+      })
+      .on("end", () => resolve(results))
+      .on("error", reject);
+  });
 }
 
 // ===============================
-// ✅ FORMAT DATE
+// GENERATE JSON
 // ===============================
-function formatDate(date) {
-  return date.toISOString().split("T")[0];
-}
+async function generateJSON() {
+  try {
+    const rows = await fetchCSV();
 
-// ===============================
-// ✅ LAST 7 DAYS DATES
-// ===============================
-function getLast7Days() {
-  const dates = [];
+    console.log("Rows fetched:", rows.length);
 
-  for (let i = 6; i >= 0; i--) {
-    const d = new Date();
-    d.setDate(d.getDate() - i);
-    dates.push(formatDate(d));
-  }
+    const grouped = {};
 
-  return dates;
-}
+    rows.forEach((row) => {
+      if (!grouped[row.city]) grouped[row.city] = [];
+      grouped[row.city].push(row);
+    });
 
-// ===============================
-// ✅ LOAD OLD DATA (IMPORTANT)
-// ===============================
-let oldData = {};
+    const finalData = {
+      updatedAt: new Date().toISOString(),
+      data: {}
+    };
 
-try {
-  oldData = JSON.parse(fs.readFileSync("gold-data.json"));
-} catch {
-  oldData = {};
-}
+    Object.keys(grouped).forEach((city) => {
+      const cityData = grouped[city];
 
-// ===============================
-// ✅ BUILD LAST 7 DAYS CORRECTLY
-// ===============================
-function buildLast7Days(city, basePrice) {
-  const dates = getLast7Days();
-  const oldCity = oldData.data?.[city]?.last7Days || [];
+      cityData.sort((a, b) => new Date(a.date) - new Date(b.date));
 
-  return dates.map((date) => {
-    const existing = oldCity.find(d => d.date === date);
+      const last7 = cityData.slice(-7);
 
-    // ✅ keep old historical data
-    if (existing) {
-      return existing;
-    }
-
-    // ✅ only today's new value
-    if (date === formatDate(new Date())) {
-      return {
-        date,
-        city,
-        gold24: basePrice.gold24,
-        gold22: basePrice.gold22,
-        silver: basePrice.silver
+      finalData.data[city] = {
+        today: last7[last7.length - 1],
+        last7Days: last7
       };
-    }
+    });
 
-    // fallback (rare case)
-    return {
-      date,
-      city,
-      gold24: basePrice.gold24,
-      gold22: basePrice.gold22,
-      silver: basePrice.silver
-    };
-  });
+    fs.writeFileSync("gold-data.json", JSON.stringify(finalData, null, 2));
+
+    console.log("✅ JSON generated successfully from Google Sheet!");
+  } catch (err) {
+    console.error("❌ ERROR:", err.message);
+  }
 }
 
 // ===============================
-// ✅ GENERATE FINAL DATA
+// RUN
 // ===============================
-function generateData() {
-  const result = {
-    updatedAt: new Date().toISOString(),
-    data: {}
-  };
-
-  const basePrice = getBasePrice();
-
-  cities.forEach((city) => {
-    const last7Days = buildLast7Days(city, basePrice);
-
-    result.data[city] = {
-      today: last7Days[last7Days.length - 1],
-      last7Days
-    };
-  });
-
-  return result;
-}
-
-// ===============================
-// ✅ WRITE FILE
-// ===============================
-const finalData = generateData();
-
-fs.writeFileSync("gold-data.json", JSON.stringify(finalData, null, 2));
-
-console.log("✅ Gold data updated correctly (history preserved)!");
+generateJSON();
