@@ -1,22 +1,15 @@
 {
-  "updatedAt": "2026-06-06T09:48:46.269Z",
+  "updatedAt": "2026-06-07T10:08:58.331Z",
   "data": {
     "visakhapatnam": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "visakhapatnam",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "visakhapatnam",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "visakhapatnam",
@@ -57,26 +50,26 @@
           "city": "visakhapatnam",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "visakhapatnam",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "vijayawada": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "vijayawada",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "vijayawada",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "vijayawada",
@@ -117,26 +110,26 @@
           "city": "vijayawada",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "vijayawada",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "tirupati": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "tirupati",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "tirupati",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "tirupati",
@@ -177,26 +170,26 @@
           "city": "tirupati",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "tirupati",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "guntur": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "guntur",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "guntur",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "guntur",
@@ -237,26 +230,26 @@
           "city": "guntur",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "guntur",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "kurnool": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "kurnool",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "kurnool",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "kurnool",
@@ -297,26 +290,26 @@
           "city": "kurnool",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "kurnool",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "hyderabad": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "hyderabad",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "hyderabad",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "hyderabad",
@@ -357,26 +350,26 @@
           "city": "hyderabad",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "hyderabad",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "warangal": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "warangal",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "warangal",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "warangal",
@@ -417,26 +410,26 @@
           "city": "warangal",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "warangal",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "nizamabad": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "nizamabad",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "nizamabad",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "nizamabad",
@@ -477,26 +470,26 @@
           "city": "nizamabad",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "nizamabad",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "karimnagar": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "karimnagar",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "karimnagar",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "karimnagar",
@@ -537,26 +530,26 @@
           "city": "karimnagar",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "karimnagar",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "chennai": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "chennai",
-        "gold24": 158430.225,
-        "gold22": 145122.045,
+        "gold24": 156930.075,
+        "gold22": 143850,
         "silver": 261961.125
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "chennai",
-          "gold24": 161361.6825,
-          "gold22": 147806.9025,
-          "silver": 271225.065
-        },
         {
           "date": "2026-06-01",
           "city": "chennai",
@@ -597,26 +590,26 @@
           "city": "chennai",
           "gold24": 158430.225,
           "gold22": 145122.045,
+          "silver": 261961.125
+        },
+        {
+          "date": "2026-06-07",
+          "city": "chennai",
+          "gold24": 156930.075,
+          "gold22": 143850,
           "silver": 261961.125
         }
       ]
     },
     "coimbatore": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "coimbatore",
-        "gold24": 158430.225,
-        "gold22": 145122.045,
+        "gold24": 156930.075,
+        "gold22": 143850,
         "silver": 261961.125
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "coimbatore",
-          "gold24": 161361.6825,
-          "gold22": 147806.9025,
-          "silver": 271225.065
-        },
         {
           "date": "2026-06-01",
           "city": "coimbatore",
@@ -657,26 +650,26 @@
           "city": "coimbatore",
           "gold24": 158430.225,
           "gold22": 145122.045,
+          "silver": 261961.125
+        },
+        {
+          "date": "2026-06-07",
+          "city": "coimbatore",
+          "gold24": 156930.075,
+          "gold22": 143850,
           "silver": 261961.125
         }
       ]
     },
     "madurai": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "madurai",
-        "gold24": 158430.225,
-        "gold22": 145122.045,
+        "gold24": 156930.075,
+        "gold22": 143850,
         "silver": 261961.125
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "madurai",
-          "gold24": 161361.6825,
-          "gold22": 147806.9025,
-          "silver": 271225.065
-        },
         {
           "date": "2026-06-01",
           "city": "madurai",
@@ -717,26 +710,26 @@
           "city": "madurai",
           "gold24": 158430.225,
           "gold22": 145122.045,
+          "silver": 261961.125
+        },
+        {
+          "date": "2026-06-07",
+          "city": "madurai",
+          "gold24": 156930.075,
+          "gold22": 143850,
           "silver": 261961.125
         }
       ]
     },
     "trichy": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "trichy",
-        "gold24": 158430.225,
-        "gold22": 145122.045,
+        "gold24": 156930.075,
+        "gold22": 143850,
         "silver": 261961.125
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "trichy",
-          "gold24": 161361.6825,
-          "gold22": 147806.9025,
-          "silver": 271225.065
-        },
         {
           "date": "2026-06-01",
           "city": "trichy",
@@ -777,26 +770,26 @@
           "city": "trichy",
           "gold24": 158430.225,
           "gold22": 145122.045,
+          "silver": 261961.125
+        },
+        {
+          "date": "2026-06-07",
+          "city": "trichy",
+          "gold24": 156930.075,
+          "gold22": 143850,
           "silver": 261961.125
         }
       ]
     },
     "salem": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "salem",
-        "gold24": 158430.225,
-        "gold22": 145122.045,
+        "gold24": 156930.075,
+        "gold22": 143850,
         "silver": 261961.125
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "salem",
-          "gold24": 161361.6825,
-          "gold22": 147806.9025,
-          "silver": 271225.065
-        },
         {
           "date": "2026-06-01",
           "city": "salem",
@@ -838,25 +831,25 @@
           "gold24": 158430.225,
           "gold22": 145122.045,
           "silver": 261961.125
+        },
+        {
+          "date": "2026-06-07",
+          "city": "salem",
+          "gold24": 156930.075,
+          "gold22": 143850,
+          "silver": 261961.125
         }
       ]
     },
     "bangalore": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "bangalore",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "bangalore",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "bangalore",
@@ -897,26 +890,26 @@
           "city": "bangalore",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "bangalore",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "mysore": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "mysore",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "mysore",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "mysore",
@@ -957,26 +950,26 @@
           "city": "mysore",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "mysore",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "mangalore": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "mangalore",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "mangalore",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "mangalore",
@@ -1017,26 +1010,26 @@
           "city": "mangalore",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "mangalore",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "hubli": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "hubli",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "hubli",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "hubli",
@@ -1077,26 +1070,26 @@
           "city": "hubli",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "hubli",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "kochi": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "kochi",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "kochi",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "kochi",
@@ -1137,26 +1130,26 @@
           "city": "kochi",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "kochi",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "trivandrum": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "trivandrum",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "trivandrum",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "trivandrum",
@@ -1197,26 +1190,26 @@
           "city": "trivandrum",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "trivandrum",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "kozhikode": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "kozhikode",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "kozhikode",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "kozhikode",
@@ -1257,26 +1250,26 @@
           "city": "kozhikode",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "kozhikode",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "thrissur": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "thrissur",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "thrissur",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "thrissur",
@@ -1317,26 +1310,26 @@
           "city": "thrissur",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "thrissur",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "new delhi": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "new delhi",
-        "gold24": 157736.37,
-        "gold22": 144486.474,
+        "gold24": 156242.79,
+        "gold22": 143220,
         "silver": 260813.85
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "new delhi",
-          "gold24": 160654.989,
-          "gold22": 147159.573,
-          "silver": 270037.218
-        },
         {
           "date": "2026-06-01",
           "city": "new delhi",
@@ -1377,26 +1370,26 @@
           "city": "new delhi",
           "gold24": 157736.37,
           "gold22": 144486.474,
+          "silver": 260813.85
+        },
+        {
+          "date": "2026-06-07",
+          "city": "new delhi",
+          "gold24": 156242.79,
+          "gold22": 143220,
           "silver": 260813.85
         }
       ]
     },
     "lucknow": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "lucknow",
-        "gold24": 157736.37,
-        "gold22": 144486.474,
+        "gold24": 156242.79,
+        "gold22": 143220,
         "silver": 260813.85
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "lucknow",
-          "gold24": 160654.989,
-          "gold22": 147159.573,
-          "silver": 270037.218
-        },
         {
           "date": "2026-06-01",
           "city": "lucknow",
@@ -1437,26 +1430,26 @@
           "city": "lucknow",
           "gold24": 157736.37,
           "gold22": 144486.474,
+          "silver": 260813.85
+        },
+        {
+          "date": "2026-06-07",
+          "city": "lucknow",
+          "gold24": 156242.79,
+          "gold22": 143220,
           "silver": 260813.85
         }
       ]
     },
     "kanpur": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "kanpur",
-        "gold24": 157736.37,
-        "gold22": 144486.474,
+        "gold24": 156242.79,
+        "gold22": 143220,
         "silver": 260813.85
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "kanpur",
-          "gold24": 160654.989,
-          "gold22": 147159.573,
-          "silver": 270037.218
-        },
         {
           "date": "2026-06-01",
           "city": "kanpur",
@@ -1497,26 +1490,26 @@
           "city": "kanpur",
           "gold24": 157736.37,
           "gold22": 144486.474,
+          "silver": 260813.85
+        },
+        {
+          "date": "2026-06-07",
+          "city": "kanpur",
+          "gold24": 156242.79,
+          "gold22": 143220,
           "silver": 260813.85
         }
       ]
     },
     "varanasi": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "varanasi",
-        "gold24": 157736.37,
-        "gold22": 144486.474,
+        "gold24": 156242.79,
+        "gold22": 143220,
         "silver": 260813.85
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "varanasi",
-          "gold24": 160654.989,
-          "gold22": 147159.573,
-          "silver": 270037.218
-        },
         {
           "date": "2026-06-01",
           "city": "varanasi",
@@ -1557,26 +1550,26 @@
           "city": "varanasi",
           "gold24": 157736.37,
           "gold22": 144486.474,
+          "silver": 260813.85
+        },
+        {
+          "date": "2026-06-07",
+          "city": "varanasi",
+          "gold24": 156242.79,
+          "gold22": 143220,
           "silver": 260813.85
         }
       ]
     },
     "noida": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "noida",
-        "gold24": 157736.37,
-        "gold22": 144486.474,
+        "gold24": 156242.79,
+        "gold22": 143220,
         "silver": 260813.85
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "noida",
-          "gold24": 160654.989,
-          "gold22": 147159.573,
-          "silver": 270037.218
-        },
         {
           "date": "2026-06-01",
           "city": "noida",
@@ -1617,26 +1610,26 @@
           "city": "noida",
           "gold24": 157736.37,
           "gold22": 144486.474,
+          "silver": 260813.85
+        },
+        {
+          "date": "2026-06-07",
+          "city": "noida",
+          "gold24": 156242.79,
+          "gold22": 143220,
           "silver": 260813.85
         }
       ]
     },
     "ghaziabad": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "ghaziabad",
-        "gold24": 157736.37,
-        "gold22": 144486.474,
+        "gold24": 156242.79,
+        "gold22": 143220,
         "silver": 260813.85
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "ghaziabad",
-          "gold24": 160654.989,
-          "gold22": 147159.573,
-          "silver": 270037.218
-        },
         {
           "date": "2026-06-01",
           "city": "ghaziabad",
@@ -1677,26 +1670,26 @@
           "city": "ghaziabad",
           "gold24": 157736.37,
           "gold22": 144486.474,
+          "silver": 260813.85
+        },
+        {
+          "date": "2026-06-07",
+          "city": "ghaziabad",
+          "gold24": 156242.79,
+          "gold22": 143220,
           "silver": 260813.85
         }
       ]
     },
     "amritsar": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "amritsar",
-        "gold24": 157736.37,
-        "gold22": 144486.474,
+        "gold24": 156242.79,
+        "gold22": 143220,
         "silver": 260813.85
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "amritsar",
-          "gold24": 160654.989,
-          "gold22": 147159.573,
-          "silver": 270037.218
-        },
         {
           "date": "2026-06-01",
           "city": "amritsar",
@@ -1737,26 +1730,26 @@
           "city": "amritsar",
           "gold24": 157736.37,
           "gold22": 144486.474,
+          "silver": 260813.85
+        },
+        {
+          "date": "2026-06-07",
+          "city": "amritsar",
+          "gold24": 156242.79,
+          "gold22": 143220,
           "silver": 260813.85
         }
       ]
     },
     "ludhiana": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "ludhiana",
-        "gold24": 157736.37,
-        "gold22": 144486.474,
+        "gold24": 156242.79,
+        "gold22": 143220,
         "silver": 260813.85
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "ludhiana",
-          "gold24": 160654.989,
-          "gold22": 147159.573,
-          "silver": 270037.218
-        },
         {
           "date": "2026-06-01",
           "city": "ludhiana",
@@ -1797,26 +1790,26 @@
           "city": "ludhiana",
           "gold24": 157736.37,
           "gold22": 144486.474,
+          "silver": 260813.85
+        },
+        {
+          "date": "2026-06-07",
+          "city": "ludhiana",
+          "gold24": 156242.79,
+          "gold22": 143220,
           "silver": 260813.85
         }
       ]
     },
     "jalandhar": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "jalandhar",
-        "gold24": 157736.37,
-        "gold22": 144486.474,
+        "gold24": 156242.79,
+        "gold22": 143220,
         "silver": 260813.85
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "jalandhar",
-          "gold24": 160654.989,
-          "gold22": 147159.573,
-          "silver": 270037.218
-        },
         {
           "date": "2026-06-01",
           "city": "jalandhar",
@@ -1857,26 +1850,26 @@
           "city": "jalandhar",
           "gold24": 157736.37,
           "gold22": 144486.474,
+          "silver": 260813.85
+        },
+        {
+          "date": "2026-06-07",
+          "city": "jalandhar",
+          "gold24": 156242.79,
+          "gold22": 143220,
           "silver": 260813.85
         }
       ]
     },
     "gurgaon": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "gurgaon",
-        "gold24": 157736.37,
-        "gold22": 144486.474,
+        "gold24": 156242.79,
+        "gold22": 143220,
         "silver": 260813.85
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "gurgaon",
-          "gold24": 160654.989,
-          "gold22": 147159.573,
-          "silver": 270037.218
-        },
         {
           "date": "2026-06-01",
           "city": "gurgaon",
@@ -1917,26 +1910,26 @@
           "city": "gurgaon",
           "gold24": 157736.37,
           "gold22": 144486.474,
+          "silver": 260813.85
+        },
+        {
+          "date": "2026-06-07",
+          "city": "gurgaon",
+          "gold24": 156242.79,
+          "gold22": 143220,
           "silver": 260813.85
         }
       ]
     },
     "faridabad": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "faridabad",
-        "gold24": 157736.37,
-        "gold22": 144486.474,
+        "gold24": 156242.79,
+        "gold22": 143220,
         "silver": 260813.85
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "faridabad",
-          "gold24": 160654.989,
-          "gold22": 147159.573,
-          "silver": 270037.218
-        },
         {
           "date": "2026-06-01",
           "city": "faridabad",
@@ -1977,26 +1970,26 @@
           "city": "faridabad",
           "gold24": 157736.37,
           "gold22": 144486.474,
+          "silver": 260813.85
+        },
+        {
+          "date": "2026-06-07",
+          "city": "faridabad",
+          "gold24": 156242.79,
+          "gold22": 143220,
           "silver": 260813.85
         }
       ]
     },
     "shimla": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "shimla",
-        "gold24": 157736.37,
-        "gold22": 144486.474,
+        "gold24": 156242.79,
+        "gold22": 143220,
         "silver": 260813.85
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "shimla",
-          "gold24": 160654.989,
-          "gold22": 147159.573,
-          "silver": 270037.218
-        },
         {
           "date": "2026-06-01",
           "city": "shimla",
@@ -2037,26 +2030,26 @@
           "city": "shimla",
           "gold24": 157736.37,
           "gold22": 144486.474,
+          "silver": 260813.85
+        },
+        {
+          "date": "2026-06-07",
+          "city": "shimla",
+          "gold24": 156242.79,
+          "gold22": 143220,
           "silver": 260813.85
         }
       ]
     },
     "dehradun": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "dehradun",
-        "gold24": 157736.37,
-        "gold22": 144486.474,
+        "gold24": 156242.79,
+        "gold22": 143220,
         "silver": 260813.85
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "dehradun",
-          "gold24": 160654.989,
-          "gold22": 147159.573,
-          "silver": 270037.218
-        },
         {
           "date": "2026-06-01",
           "city": "dehradun",
@@ -2098,25 +2091,25 @@
           "gold24": 157736.37,
           "gold22": 144486.474,
           "silver": 260813.85
+        },
+        {
+          "date": "2026-06-07",
+          "city": "dehradun",
+          "gold24": 156242.79,
+          "gold22": 143220,
+          "silver": 260813.85
         }
       ]
     },
     "mumbai": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "mumbai",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "mumbai",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "mumbai",
@@ -2157,26 +2150,26 @@
           "city": "mumbai",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "mumbai",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "pune": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "pune",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "pune",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "pune",
@@ -2217,26 +2210,26 @@
           "city": "pune",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "pune",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "nagpur": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "nagpur",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "nagpur",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "nagpur",
@@ -2277,26 +2270,26 @@
           "city": "nagpur",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "nagpur",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "nashik": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "nashik",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "nashik",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "nashik",
@@ -2337,26 +2330,26 @@
           "city": "nashik",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "nashik",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "ahmedabad": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "ahmedabad",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "ahmedabad",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "ahmedabad",
@@ -2397,26 +2390,26 @@
           "city": "ahmedabad",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "ahmedabad",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "surat": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "surat",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "surat",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "surat",
@@ -2457,26 +2450,26 @@
           "city": "surat",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "surat",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "vadodara": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "vadodara",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "vadodara",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "vadodara",
@@ -2517,26 +2510,26 @@
           "city": "vadodara",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "vadodara",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "rajkot": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "rajkot",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "rajkot",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "rajkot",
@@ -2577,26 +2570,26 @@
           "city": "rajkot",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "rajkot",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "jaipur": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "jaipur",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "jaipur",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "jaipur",
@@ -2637,26 +2630,26 @@
           "city": "jaipur",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "jaipur",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "udaipur": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "udaipur",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "udaipur",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "udaipur",
@@ -2697,26 +2690,26 @@
           "city": "udaipur",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "udaipur",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "jodhpur": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "jodhpur",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "jodhpur",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "jodhpur",
@@ -2757,26 +2750,26 @@
           "city": "jodhpur",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "jodhpur",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "kolkata": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "kolkata",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "kolkata",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "kolkata",
@@ -2817,26 +2810,26 @@
           "city": "kolkata",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "kolkata",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "siliguri": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "siliguri",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "siliguri",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "siliguri",
@@ -2877,26 +2870,26 @@
           "city": "siliguri",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "siliguri",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "bhubaneswar": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "bhubaneswar",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "bhubaneswar",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "bhubaneswar",
@@ -2937,26 +2930,26 @@
           "city": "bhubaneswar",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "bhubaneswar",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "cuttack": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "cuttack",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "cuttack",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "cuttack",
@@ -2997,26 +2990,26 @@
           "city": "cuttack",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "cuttack",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "patna": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "patna",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "patna",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "patna",
@@ -3057,26 +3050,26 @@
           "city": "patna",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "patna",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "ranchi": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "ranchi",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "ranchi",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "ranchi",
@@ -3117,26 +3110,26 @@
           "city": "ranchi",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "ranchi",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "bhopal": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "bhopal",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "bhopal",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "bhopal",
@@ -3177,26 +3170,26 @@
           "city": "bhopal",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "bhopal",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "indore": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "indore",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "indore",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "indore",
@@ -3237,26 +3230,26 @@
           "city": "indore",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "indore",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "gwalior": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "gwalior",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "gwalior",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "gwalior",
@@ -3297,26 +3290,26 @@
           "city": "gwalior",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "gwalior",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "raipur": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "raipur",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "raipur",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "raipur",
@@ -3357,26 +3350,26 @@
           "city": "raipur",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "raipur",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "guwahati": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "guwahati",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "guwahati",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "guwahati",
@@ -3417,26 +3410,26 @@
           "city": "guwahati",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "guwahati",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
     },
     "shillong": {
       "today": {
-        "date": "2026-06-06",
+        "date": "2026-06-07",
         "city": "shillong",
-        "gold24": 157273.8,
-        "gold22": 144062.76,
+        "gold24": 155784.6,
+        "gold22": 142800,
         "silver": 260049
       },
       "last7Days": [
-        {
-          "date": "2026-05-31",
-          "city": "shillong",
-          "gold24": 160183.86,
-          "gold22": 146728.02,
-          "silver": 269245.32
-        },
         {
           "date": "2026-06-01",
           "city": "shillong",
@@ -3477,6 +3470,13 @@
           "city": "shillong",
           "gold24": 157273.8,
           "gold22": 144062.76,
+          "silver": 260049
+        },
+        {
+          "date": "2026-06-07",
+          "city": "shillong",
+          "gold24": 155784.6,
+          "gold22": 142800,
           "silver": 260049
         }
       ]
